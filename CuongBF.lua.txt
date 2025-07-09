@@ -1,7 +1,7 @@
 -- discord.gg/RGZbjt8P
 
 
-shared.LoaderTitle = "Credits:CuongHub";
+shared.LoaderTitle = "Credits: CuongHub";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
