@@ -1,4 +1,4 @@
--- discord.gg/macuong01234
+-- discord.gg/RGZbjt8P
 
 
 shared.LoaderTitle = "Credits:CuongHub";
